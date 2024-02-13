@@ -1,6 +1,6 @@
 <h3>👋 Hey there! I'm Carly</h3>
 
-- 🌱 Actively updating my website with examples of my work - [portfolio](https://carlydopps.github.io/)
+- 🌱 Actively updating my website with my projects - [portfolio](https://carlydopps.github.io/)
 - 📫 I'd love to connect! [LinkedIn](https://www.linkedin.com/in/carlydopps/)  |  [Email](mailto:carly.doppelheuer@gmail.com)
 
 <div>
