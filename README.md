@@ -3,7 +3,7 @@
 
 - 📚 I use daily: JavaScript (React), Postgres, TypeScript (TypeORM)
 - 🌱 Learning more about: Docker, serverless functions, SQL
-- 🌍 I'm involved in and volunteer with: local schools for girls learning to code, Code the Dream
+- 🌍 I volunteer with: local schools for girls learning to code, Code the Dream
 - 💡 Actively updating my website with my projects - [portfolio](https://carlydopps.github.io/)
 - 📫 I'd love to connect! [LinkedIn](https://www.linkedin.com/in/carlydopps/)  |  [Email](mailto:carly.doppelheuer@gmail.com)
 
