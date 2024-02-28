@@ -1,5 +1,5 @@
 <h3>👋 Hey there! I'm Carly</h3>
-<p>Aspiring full stack engineer based in Denver, CO</p>
+<p>Aspiring full stack engineer based in Nashville, TN</p>
 
 - 📚 I use daily: JavaScript (React), Postgres, TypeScript (TypeORM)
 - 🌱 Learning more about: Docker, serverless functions, SQL
