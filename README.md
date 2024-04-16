@@ -1,8 +1,8 @@
 <h3>👋 Hey there! I'm Carly</h3>
 <p>Full stack engineer based in Denver, CO</p>
 
-- 📚 I use daily: JavaScript (React), Postgres, TypeScript (TypeORM)
-- 🌱 Learning more about: Docker, Amazon S3 + Cloudfront, serverless functions, SQL
+- 📚 I use daily: JavaScript (React), TypeScript (TypeORM), Postgres
+- 🌱 Learning more about: Docker, Kubernetes, GraphQL, Amazon S3 + Cloudfront
 - 🌍 I'm involved with: local schools for girls learning to code
 - 💡 Actively updating my website with my projects - [portfolio](https://carlydopps.github.io/)
 - 📫 I'd love to connect! [LinkedIn](https://www.linkedin.com/in/carlydopps/)  |  [Email](mailto:carly.doppelheuer@gmail.com)
