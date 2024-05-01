@@ -1,5 +1,4 @@
 <h3>👋 Hey there! I'm Carly</h3>
-<p>Full stack engineer based in Denver, CO</p>
 
 - 📚 I use daily: JavaScript (React), TypeScript (TypeORM), Postgres
 - 🌱 Learning more about: Docker, Kubernetes, GraphQL, Amazon S3 + Cloudfront
