@@ -7,7 +7,7 @@
 - 📫 I'd love to connect! [LinkedIn](https://www.linkedin.com/in/carlydopps/)  |  [Email](mailto:carly.doppelheuer@gmail.com)
   
 <br>
-Daily contributions on work account (not reflected below): https://github.com/carlydoppsfbg  
+Daily contributions on work account: https://github.com/carlydoppsfbg  
 
 ![](https://github.com/carlydopps/carlydopps/blob/main/Screen%20Shot%202025-07-03%20at%206.45.04%20PM.png)
 <!--   <div>
